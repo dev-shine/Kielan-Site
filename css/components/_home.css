@@ -1,0 +1,151 @@
+.wrapper {
+	background-color: #FEFEFE;
+	color: #222222;
+	margin: 0 0;
+	display: flex;
+	align-items: center;
+}
+
+.home__wrapper a {
+	color: #222222;
+}
+
+.home__wrapper h1,
+.home__wrapper h2 {
+	text-align: center;
+}
+
+.btn {
+	display: inline-block;
+	background-color: skyblue;
+	padding: 0.5em;
+	color: #FEFEFE;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.logo {
+	max-height: 5em;
+	margin: 0 auto;
+	display: block;
+}
+
+.home__label {
+	display: block;
+	width: 100%;
+	margin: 1em 0;
+}
+
+.home__input {
+	margin-left: 0.5em;
+	border-radius: 2px;
+	border-width: 1px;
+	border-color: grey;
+	padding: 0.3em;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.navMenu {
+    clear: both;
+    color: #000;
+    font-size: 12px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    line-height: 1.5;
+    width: 100%;
+}
+
+.menuItem {
+    display: inline-block
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    line-height: 1.5;
+    padding: 0;
+
+}
+
+li {
+
+    padding: 0.25rem 0;
+    display: inline-block;
+
+}
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0;
+    display: inline-block;
+    color: black;
+}
+
+nav {
+    border-bottom: 1px solid #e3e3e3;
+    border-top: 3px solid #000;
+}
+
+.title {
+    border-bottom: 1px solid #e3e3e3;
+}
+.hz {
+    display: flex;
+    align-content: space-around;
+    margin: auto;
+}
+
+.profilePic {
+    width: 10rem;
+    height: 10rem;
+    border-radius: .5rem;
+}
+
+.about {
+    width: 20rem;
+    line-height: 1;
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about h1 {
+    margin-bottom: .5rem;
+}
+
+.about p {
+    margin: 0 0 0 0;
+}
+
+.about-title {
+        align-self: center;
+	text-align: center;
+}
+
+.about-links {
+    display: flex;
+}
+
+.about-links a {
+    margin: 0 .5rem 0 .5rem;
+    text-transform: lowercase;
+    font-weight: bold;
+}
+.post-list {
+    margin-left: 10rem;
+    width: 40rem;
+}
+
+.bio-quote {
+    margin: .5rem 0 1rem 0;
+    width: 15rem;
+    line-height: 1.5;
+}
+
+.mainpage-post-content {
+    
+}
